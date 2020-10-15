@@ -10,14 +10,16 @@ diária para a troca de conhecimentos com os desenvolvedores. </h2>
 
 <h1>Backend</h1>
 <p>
-NodeJS
+NodeJS</p>
+
   ->Express
   ->Cors
   ->Mongose
   ->Multer
   ->Nodemon
-</p>
-![alt text](https://github.com/ClaytonMarriel/Omnistack---FullStack/blob/master/frontend/src/login.png?raw=true)
+
+
+
 
 
 
