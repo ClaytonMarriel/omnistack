@@ -12,23 +12,22 @@ diária para a troca de conhecimentos com os desenvolvedores. </h2>
 <p>
 NodeJS</p>
 
-<h2>
+<h3>
   ->Express
   ->Cors
   ->Mongose
   ->Multer
   ->Nodemon
-  </h2>
+  </h3>
   
   <h1> FrontEnd </h1>
   <p>ReactJS</p>
   
-  <h2>
- React-Dom
- React-Router-Dom
- EslintConfig
-  
-</h2>
+  <h3>
+ ->React-Dom
+ ->React-Router-Dom
+ ->EslintConfig
+</h3>
   
 
 
