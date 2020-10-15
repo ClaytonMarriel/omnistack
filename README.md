@@ -1,4 +1,6 @@
 
+![alt text](https://github.com/ClaytonMarriel/Omnistack---FullStack/blob/master/frontend/src/login.png?raw=true)
+
 <h1> Desafio da semana Rocketseat </h1>
 
 <h2>Nesse projeto foi desenvolvido uma aplicação onde o usuário pode se cadastrar utilizando seu e-mail para cadastrar/criar
@@ -35,5 +37,4 @@ NodeJS</p>
 
 
 
-![alt text](https://github.com/ClaytonMarriel/Omnistack---FullStack/blob/master/frontend/src/login.png?raw=true)
 ![alt text](https://github.com/ClaytonMarriel/Omnistack---FullStack/blob/master/frontend/src/cadastro.png?raw=true)
