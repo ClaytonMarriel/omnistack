@@ -29,6 +29,8 @@ NodeJS</p>
  ->EslintConfig
 </h3>
   
+BackEnd  -> API construida em MVC, Upload de imagens utilizando o Multer, foi utilizado o MongoDB
+FrontEnd -> Foi posto em prática os conceitos de:Estado , Componentização , Rotas, Consumo de API (Axios )
 
 
 
