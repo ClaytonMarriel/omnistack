@@ -1,4 +1,4 @@
-# Omnistack---FullStack
+
 <h1> Desafio da semana Rocketseat </h1>
 
 <h2>Nesse projeto foi desenvolvido uma aplicação onde o usuário pode se cadastrar utilizando seu e-mail para cadastrar/criar
@@ -29,8 +29,8 @@ NodeJS</p>
  ->EslintConfig
 </h3>
   
-BackEnd  -> API construida em MVC, Upload de imagens utilizando o Multer, foi utilizado o MongoDB
-FrontEnd -> Foi posto em prática os conceitos de:Estado , Componentização , Rotas, Consumo de API (Axios )
+<h2>BackEnd  -> API construida em MVC, Upload de imagens utilizando o Multer, foi utilizado o MongoDB </h2>
+<h2>FrontEnd -> Foi posto em prática os conceitos de:Estado , Componentização , Rotas, Consumo de API (Axios )</h2>
 
 
 
