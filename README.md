@@ -5,6 +5,18 @@
 spots, onde é cadastrado de forma genérica uma empresa, mostrando as tecnologias utilizadas por ela e o valor cobrado para uma visita
 diária para a troca de conhecimentos com os desenvolvedores. </h2>
 
+
+------ >>> Para o desenvolvimento desse projeto, foram utilizados as techs:
+
+<h1>Backend</h1>
+<p>
+NodeJS
+  ->Express
+  ->Cors
+  ->Mongose
+  ->Multer
+  ->Nodemon
+</p>
 ![alt text](https://github.com/ClaytonMarriel/Omnistack---FullStack/blob/master/frontend/src/login.png?raw=true)
 
 
